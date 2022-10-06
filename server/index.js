@@ -6,8 +6,6 @@ const mysql = require('mysql2');
 
 
 // Another test
-// Another test
-// Another test
 
 app.use(cors());
 app.use(express.json());
